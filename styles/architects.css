@@ -24,6 +24,10 @@
 .bg-light{
     background-color: rgba(255, 144, 14, 0.10);
 }
+.section-title{
+    font-size: 45px;
+    font-weight: 700;
+}
 .btn-primary{
     padding: 20px 25px;
     border: none;
@@ -86,10 +90,6 @@ main > section {
    margin-left: 130px;
    max-width: 530px;
 } 
-.feature-title{
-    font-size: 45px;
-    font-weight: 700;
-}
 #quick-list{
     font-weight: 500;
 }
